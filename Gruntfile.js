@@ -1,4 +1,4 @@
-// Generated on 2015-05-06 using
+// Generated on 2015-05-07 using
 // generator-webapp 0.5.1
 'use strict';
 

@@ -1,5 +1,5 @@
 {
-  "name": "webapp",
+  "name": "webapp-in-action",
   "private": true,
   "dependencies": {
     "chai": "~1.8.0",
